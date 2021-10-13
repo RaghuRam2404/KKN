@@ -1,6 +1,6 @@
-# AAIC
+# Stock Market Notes
 
-Notes hosted in [https://raghuram2404.github.io/AAIC/](https://raghuram2404.github.io/AAIC/)
+Notes hosted in [https://raghuram2404.github.io/KKN/](https://raghuram2404.github.io/KKN/)
 
 > 2 commands to use `AAIC.jar`  
 > Make sure that md file and it's images are in the same name. Command should be executed from that folder  
